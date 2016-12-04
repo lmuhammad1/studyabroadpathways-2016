@@ -5,7 +5,7 @@ import {Component, View} from "angular2/core";
 })
 
 @View({
-  template: '<h2>Welcome to Study Abroad Pathways</h2>'
+  template: '<h1>Study Abroad Pathways</h1><hr>'
 })
 
 export class AppComponent {
