@@ -12,8 +12,5 @@ gem 'passenger'
 gem 'capistrano-bundler'
 gem 'capistrano-passenger'
 gem 'capistrano-rbenv'
-
-
-group :development do
-	gem 'foreman'
-end
+gem 'thor'
+gem 'foreman'

@@ -91,6 +91,7 @@ DEPENDENCIES
   sinatra
   sinatra-activerecord
   sinatra-contrib
+  thor
 
 RUBY VERSION
    ruby 2.3.2p217
