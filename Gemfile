@@ -7,6 +7,10 @@ gem 'puma'
 gem 'sinatra-contrib'
 gem 'rake'
 gem 'pg'
+gem 'capistrano'
+gem 'capistrano-bundler'
+gem 'capistrano-passenger'
+gem 'capistrano-rbenv'
 
 
 group :development do
